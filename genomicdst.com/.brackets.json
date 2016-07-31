@@ -1,0 +1,24 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/home/sharemind/Sharemind-SDK/Genomic DST/genomicdst.com/assets/js/lib/foundation/plugins/temp/foundation.util.timerAndImageLoader.js",
+        "/home/sharemind/Sharemind-SDK/Genomic DST/genomicdst.com/assets/js/lib/foundation/plugins/temp/foundation.util.box.js",
+        "/home/sharemind/Sharemind-SDK/Genomic DST/genomicdst.com/assets/js/lib/foundation/plugins/temp/foundation.toggler.js",
+        "/home/sharemind/Sharemind-SDK/Genomic DST/genomicdst.com/assets/js/lib/foundation/plugins/temp/foundation.util.touch.js",
+        "/home/sharemind/Sharemind-SDK/Genomic DST/genomicdst.com/assets/js/lib/foundation/plugins/temp/foundation.drilldown.js",
+        "/home/sharemind/Sharemind-SDK/Genomic DST/genomicdst.com/assets/js/lib/foundation/plugins/temp/foundation.magellan.js",
+        "/home/sharemind/Sharemind-SDK/Genomic DST/genomicdst.com/assets/js/lib/foundation/plugins/temp/foundation.util.nest.js",
+        "/home/sharemind/Sharemind-SDK/Genomic DST/genomicdst.com/assets/js/lib/foundation/plugins/temp/foundation.orbit.js",
+        "/home/sharemind/Sharemind-SDK/Genomic DST/genomicdst.com/assets/js/lib/foundation/plugins/temp/foundation.core.js",
+        "/home/sharemind/Sharemind-SDK/Genomic DST/genomicdst.com/assets/js/lib/foundation/plugins/temp/foundation.reveal.js",
+        "/home/sharemind/Sharemind-SDK/Genomic DST/genomicdst.com/assets/js/lib/sm/ext/jsaes.js",
+        "/home/sharemind/Desktop/Special-Problem/Genomic-DST/research-group/genomicdst.com/assets/js/lib/foundation/plugins/temp/foundation.util.timerAndImageLoader.js",
+        "/home/sharemind/Desktop/Special-Problem/Genomic-DST/research-group/genomicdst.com/assets/js/lib/sm/sm.ctrl.js",
+        "/home/sharemind/Desktop/Special-Problem/Genomic-DST/research-group/genomicdst.com/assets/js/lib/sm/ext/jsaes.js",
+        "/home/sharemind/Desktop/Special-Problem/Genomic-DST/research-group/genomicdst.com/assets/js/lib/sm/ext/typedarray.js",
+        "/home/sharemind/Desktop/Special-Problem/Genomic-DST/research-group/genomicdst.com/assets/js/lib/sm/ext/jsbn2.js",
+        "/home/sharemind/Desktop/Special-Problem/Genomic-DST/research-group/genomicdst.com/assets/js/lib/sm/ext/jsbn.js",
+        "/home/sharemind/Desktop/Special-Problem/Genomic-DST/research-group/genomicdst.com/assets/js/lib/sm/ext/socket.io.js",
+        "/home/sharemind/Desktop/Special-Problem/Genomic-DST/research-group/genomicdst.com/assets/js/user.app.js",
+        "/home/sharemind/Desktop/Special-Problem/Genomic-DST/research-group/genomicdst.com/assets/js/lib/foundation/plugins/temp/foundation.util.box.js"
+    ]
+}
